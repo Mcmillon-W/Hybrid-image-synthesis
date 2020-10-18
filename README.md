@@ -1,1 +1,1 @@
-# Hybrid-image
+# Hybrid-image syntesis
